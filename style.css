@@ -1,0 +1,27 @@
+body{
+    background-color: goldenrod;
+}
+
+.name_of_objects{
+color: rgb(16, 48, 163);
+}
+
+.heading{
+    font: bolder;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#camera{
+    border: 5px;
+    border-style: groove;
+    border-color: crimson;
+}
+
+#result_object_accuracy{
+color: chocolate;
+}
+
+#result_object_accuracy{
+    color: cyan;
+    }
